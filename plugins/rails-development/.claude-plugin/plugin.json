@@ -1,0 +1,9 @@
+{
+  "$schema": "https://www.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "rails-development",
+  "description": "Skills for Ruby on Rails development",
+  "version": "0.1.0",
+  "author": {
+    "name": "thoughtbot"
+  }
+}
