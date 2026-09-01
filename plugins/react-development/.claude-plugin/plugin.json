@@ -1,0 +1,9 @@
+{
+  "$schema": "https://www.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "react-development",
+  "description": "Skills for React and Next.js development",
+  "version": "0.1.0",
+  "author": {
+    "name": "thoughtbot"
+  }
+}

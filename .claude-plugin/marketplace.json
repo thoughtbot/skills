@@ -1,0 +1,78 @@
+{
+  "$schema": "https://www.schemastore.org/claude-code-marketplace.json",
+  "name": "skills",
+  "owner": {
+    "name": "thoughtbot"
+  },
+  "metadata": {
+    "description": "thoughtbot's public marketplace of agent skills and Claude Code plugins",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "general",
+      "source": "./plugins/general",
+      "description": "Catch-all plugin for thoughtbot skills that don't need a domain-specific plugin",
+      "version": "0.1.0",
+      "category": "development",
+      "keywords": ["thoughtbot", "general"]
+    },
+    {
+      "name": "rails-development",
+      "source": "./plugins/rails-development",
+      "description": "Skills for Ruby on Rails development",
+      "version": "0.1.0",
+      "category": "development",
+      "keywords": ["ruby", "rails", "backend"]
+    },
+    {
+      "name": "react-development",
+      "source": "./plugins/react-development",
+      "description": "Skills for React and Next.js development",
+      "version": "0.1.0",
+      "category": "development",
+      "keywords": ["react", "nextjs", "typescript", "frontend"]
+    },
+    {
+      "name": "rails-audit-thoughtbot",
+      "source": {
+        "source": "github",
+        "repo": "thoughtbot/rails-audit-thoughtbot"
+      },
+      "description": "Rails audit skill from thoughtbot",
+      "category": "development",
+      "keywords": ["ruby", "rails", "audit", "review"]
+    },
+    {
+      "name": "atomic-commits",
+      "source": {
+        "source": "github",
+        "repo": "thoughtbot/atomic-commits-plugin"
+      },
+      "description": "Guides agents to commit early and often in atomic increments, separate feature/refactor/cleanup work, and keep pull requests around ~200 lines",
+      "version": "1.0.1",
+      "category": "workflow",
+      "keywords": ["git", "commits", "workflow", "pull-requests"]
+    },
+    {
+      "name": "generate-postman-collection",
+      "source": {
+        "source": "github",
+        "repo": "thoughtbot/generate-postman-collection"
+      },
+      "description": "Generate a postman collection from your codebase",
+      "category": "development",
+      "keywords": ["ruby", "rails", "api"]
+    },
+    {
+      "name": "rails-consultant",
+      "source": {
+        "source": "github",
+        "repo": "thoughtbot/rails-consultant"
+      },
+      "description": "A collection of skills for Rails development and consulting, with an emphasis on learning, communication, and client success",
+      "category": "workflows",
+      "keywords": ["rails", "ruby", "consulting", "tdd", "code-review"]
+    }
+  ]
+}
