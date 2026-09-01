@@ -18,17 +18,6 @@
       "keywords": ["thoughtbot", "general"]
     },
     {
-      "name": "react-dev",
-      "source": {
-        "source": "github",
-        "repo": "thoughtbot/react-dev-plugin"
-      },
-      "description": "React/Next.js development toolkit with performance review skills and MCP server integrations",
-      "version": "1.0.0",
-      "category": "development",
-      "keywords": ["react", "nextjs", "typescript", "frontend"]
-    },
-    {
       "name": "rails-audit-thoughtbot",
       "source": {
         "source": "github",
