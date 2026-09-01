@@ -12,14 +12,14 @@ Our skills are also published at
 
 ## Available Plugins
 
-| Plugin | Description | Category |
-|--------|-------------|----------|
-| [**general**](plugins/general) | Catch-all plugin for thoughtbot skills that don't need a domain-specific plugin | development |
-| [**react-dev**](https://github.com/thoughtbot/react-dev-plugin) | React/Next.js development toolkit with Vercel performance review skills and MCP server integrations (Context7, Figma, Chrome DevTools, Supabase) | development |
-| [**rails-audit-thoughtbot**](https://github.com/thoughtbot/rails-audit-thoughtbot) | Comprehensive code audits of Ruby on Rails applications based on thoughtbot best practices, covering testing, security, code design, Rails conventions, and database optimization | development |
-| [**atomic-commits**](https://github.com/thoughtbot/atomic-commits-plugin) | Guides agents to commit early and often in atomic increments, separate feature/refactor/cleanup work, and keep PRs around ~200 lines | workflow |
-| [**generate-postman-collection**](https://github.com/thoughtbot/generate-postman-collection) | Automatically generates or updates Postman API collections by analyzing Rails application routes, controllers, and test specs | development |
-| [**rails-consultant**](https://github.com/thoughtbot/rails-consultant) | A collection of skills for Rails development and consulting with an emphasis on learning, communication, and client success | workflows |
+| Plugin                                                                                       | Description                                                                                                                                                                       | Category    |
+| -------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| [**general**](plugins/general)                                                               | Catch-all plugin for thoughtbot skills that don't need a domain-specific plugin                                                                                                   | development |
+| [**react-dev**](https://github.com/thoughtbot/react-dev-plugin)                              | React/Next.js development toolkit with Vercel performance review skills and MCP server integrations (Context7, Figma, Chrome DevTools, Supabase)                                  | development |
+| [**rails-audit-thoughtbot**](https://github.com/thoughtbot/rails-audit-thoughtbot)           | Comprehensive code audits of Ruby on Rails applications based on thoughtbot best practices, covering testing, security, code design, Rails conventions, and database optimization | development |
+| [**atomic-commits**](https://github.com/thoughtbot/atomic-commits-plugin)                    | Guides agents to commit early and often in atomic increments, separate feature/refactor/cleanup work, and keep PRs around ~200 lines                                              | workflow    |
+| [**generate-postman-collection**](https://github.com/thoughtbot/generate-postman-collection) | Automatically generates or updates Postman API collections by analyzing Rails application routes, controllers, and test specs                                                     | development |
+| [**rails-consultant**](https://github.com/thoughtbot/rails-consultant)                       | A collection of skills for Rails development and consulting with an emphasis on learning, communication, and client success                                                       | workflows   |
 
 ## Installation
 
