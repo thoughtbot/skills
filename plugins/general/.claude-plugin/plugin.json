@@ -1,4 +1,5 @@
 {
+  "$schema": "https://www.schemastore.org/claude-code-plugin-manifest.json",
   "name": "general",
   "description": "Catch-all plugin for thoughtbot skills that don't need a domain-specific plugin",
   "version": "0.1.0",
