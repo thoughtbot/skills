@@ -1,0 +1,9 @@
+{
+  "$schema": "https://www.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "design",
+  "description": "Skills for product design work",
+  "version": "0.1.0",
+  "author": {
+    "name": "thoughtbot"
+  }
+}
