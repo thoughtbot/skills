@@ -73,6 +73,26 @@
       "description": "A collection of skills for Rails development and consulting, with an emphasis on learning, communication, and client success",
       "category": "workflows",
       "keywords": ["rails", "ruby", "consulting", "tdd", "code-review"]
+    },
+    {
+      "name": "dependabot-review-skill-thoughtbot",
+      "source": {
+        "source": "github",
+        "repo": "thoughtbot/dependabot-review-skill-thoughtbot"
+      },
+      "description": "A skill that reviews Dependabot gem upgrade pull requests to assess impact, breaking changes, and security vulnerabilities",
+      "category": "development",
+      "keywords": ["ruby", "rails", "gem-upgrades", "security", "code-review"]
+    },
+    {
+      "name": "clean-rspec-output",
+      "source": {
+        "source": "github",
+        "repo": "thoughtbot/clean-rspec-output"
+      },
+      "description": "Systematically eliminates unexpected output from a Ruby on Rails RSpec test suite",
+      "category": "development",
+      "keywords": ["ruby", "rails", "rspec", "testing"]
     }
   ]
 }

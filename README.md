@@ -21,6 +21,8 @@ Our skills are also published at
 | [**atomic-commits**](https://github.com/thoughtbot/atomic-commits-plugin)                    | Guides agents to commit early and often in atomic increments, separate feature/refactor/cleanup work, and keep PRs around ~200 lines                                              | workflow    |
 | [**generate-postman-collection**](https://github.com/thoughtbot/generate-postman-collection) | Automatically generates or updates Postman API collections by analyzing Rails application routes, controllers, and test specs                                                     | development |
 | [**rails-consultant**](https://github.com/thoughtbot/rails-consultant)                       | A collection of skills for Rails development and consulting with an emphasis on learning, communication, and client success                                                       | workflows   |
+| [**dependabot-review-skill-thoughtbot**](https://github.com/thoughtbot/dependabot-review-skill-thoughtbot) | A skill that reviews Dependabot gem upgrade pull requests to assess impact, breaking changes, and security vulnerabilities                                          | development |
+| [**clean-rspec-output**](https://github.com/thoughtbot/clean-rspec-output)                   | Systematically eliminates unexpected output from a Ruby on Rails RSpec test suite                                                                                                 | development |
 
 ## Installation
 
