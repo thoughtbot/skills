@@ -1,9 +1,11 @@
 {
   "$schema": "https://www.schemastore.org/claude-code-plugin-manifest.json",
   "name": "react-development",
-  "description": "Skills for React and Next.js development",
-  "version": "0.1.0",
+  "description": "React/Next.js development toolkit with performance review skills and MCP server integrations",
+  "version": "1.0.0",
   "author": {
     "name": "thoughtbot"
-  }
+  },
+  "keywords": ["react", "nextjs", "typescript", "frontend"],
+  "license": "MIT"
 }
