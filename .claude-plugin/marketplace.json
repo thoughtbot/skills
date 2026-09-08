@@ -45,7 +45,6 @@
       "name": "design",
       "source": "./plugins/design",
       "description": "Skills for product design work",
-      "version": "0.2.0",
       "category": "design",
       "keywords": ["design", "ux", "process"]
     },
