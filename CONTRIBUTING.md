@@ -54,7 +54,6 @@ Once you know where the component lives:
     "repo": "thoughtbot/rails-dev-plugin"
   },
   "description": "Rails development toolkit",
-  "version": "1.0.0",
   "category": "development",
   "keywords": ["rails", "ruby", "backend"]
 }
@@ -62,6 +61,10 @@ Once you know where the component lives:
 
 Internal-only plugins should be listed in the private
 thoughtbot/skills-internal marketplace instead.
+
+### Versioning
+
+Don't add a `version` field to in-repo plugins — not in their `plugin.json` and not in their marketplace entry. Claude Code gates subscriber updates on the version string when one is set; with none, the plugin resolves by git commit SHA, so every merged change ships without anyone remembering to bump a number. (`claude plugin validate` emits an advisory "no version specified" warning for this — expected.) A plugin in its own repository can still set a version in its `plugin.json` if its author wants gated releases; that value takes precedence over anything written here.
 
 ## Branching strategy
 
