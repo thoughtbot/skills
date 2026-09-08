@@ -28,8 +28,8 @@
     {
       "name": "react-development",
       "source": "./plugins/react-development",
-      "description": "Skills for React and Next.js development",
-      "version": "0.1.0",
+      "description": "React/Next.js development toolkit with performance review skills and MCP server integrations",
+      "version": "1.0.0",
       "category": "development",
       "keywords": ["react", "nextjs", "typescript", "frontend"]
     },
