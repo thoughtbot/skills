@@ -34,6 +34,22 @@
       "keywords": ["react", "nextjs", "typescript", "frontend"]
     },
     {
+      "name": "consulting",
+      "source": "./plugins/consulting",
+      "description": "Skills for consulting and client work",
+      "version": "0.1.0",
+      "category": "workflows",
+      "keywords": ["consulting", "communication", "process"]
+    },
+    {
+      "name": "design",
+      "source": "./plugins/design",
+      "description": "Skills for product design work",
+      "version": "0.1.0",
+      "category": "design",
+      "keywords": ["design", "ux", "process"]
+    },
+    {
       "name": "rails-audit-thoughtbot",
       "source": {
         "source": "github",
