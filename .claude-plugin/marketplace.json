@@ -13,7 +13,6 @@
       "name": "general",
       "source": "./plugins/general",
       "description": "Catch-all plugin for thoughtbot skills that don't need a domain-specific plugin",
-      "version": "0.1.0",
       "category": "development",
       "keywords": ["thoughtbot", "general"]
     },
@@ -21,7 +20,6 @@
       "name": "rails-development",
       "source": "./plugins/rails-development",
       "description": "Skills for Ruby on Rails development",
-      "version": "0.1.0",
       "category": "development",
       "keywords": ["ruby", "rails", "backend"]
     },
@@ -29,7 +27,6 @@
       "name": "react-development",
       "source": "./plugins/react-development",
       "description": "React/Next.js development toolkit with performance review skills and MCP server integrations",
-      "version": "1.0.0",
       "category": "development",
       "keywords": ["react", "nextjs", "typescript", "frontend"]
     },
@@ -37,7 +34,6 @@
       "name": "consulting",
       "source": "./plugins/consulting",
       "description": "Skills for consulting and client work",
-      "version": "0.1.0",
       "category": "workflows",
       "keywords": ["consulting", "communication", "process"]
     },
@@ -66,7 +62,6 @@
         "repo": "thoughtbot/atomic-commits-plugin"
       },
       "description": "Guides agents to commit early and often in atomic increments, separate feature/refactor/cleanup work, and keep pull requests around ~200 lines",
-      "version": "1.0.1",
       "category": "workflow",
       "keywords": ["git", "commits", "workflow", "pull-requests"]
     },
