@@ -66,16 +66,6 @@
       "keywords": ["git", "commits", "workflow", "pull-requests"]
     },
     {
-      "name": "generate-postman-collection",
-      "source": {
-        "source": "github",
-        "repo": "thoughtbot/generate-postman-collection"
-      },
-      "description": "Generate a postman collection from your codebase",
-      "category": "development",
-      "keywords": ["ruby", "rails", "api"]
-    },
-    {
       "name": "rails-consultant",
       "source": {
         "source": "github",
