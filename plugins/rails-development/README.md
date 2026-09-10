@@ -14,5 +14,6 @@ Add the marketplace and install the plugin in Claude Code:
 
 ## Skills
 
-Skills are added under this plugin's `skills/` directory as they land. See
-the repository's [CONTRIBUTING.md](../../CONTRIBUTING.md) for how to add one.
+- [**generate-postman-collection**](skills/generate-postman-collection) — generates or updates a Postman API collection by analyzing a Rails application's routes, controllers, and test specs. Migrated from [generate-postman-collection](https://github.com/thoughtbot/generate-postman-collection).
+
+See the repository's [CONTRIBUTING.md](../../CONTRIBUTING.md) for how to add a new skill.
