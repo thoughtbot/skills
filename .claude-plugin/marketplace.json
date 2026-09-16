@@ -12,7 +12,7 @@
     {
       "name": "general",
       "source": "./plugins/general",
-      "description": "General thoughtbot design and development skills",
+      "description": "General thoughtbot design, development, and consulting skills",
       "category": "development",
       "keywords": ["thoughtbot", "general"]
     },
