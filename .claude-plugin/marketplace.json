@@ -12,7 +12,7 @@
     {
       "name": "general",
       "source": "./plugins/general",
-      "description": "Catch-all plugin for thoughtbot skills that don't need a domain-specific plugin",
+      "description": "General thoughtbot design and development skills",
       "category": "development",
       "keywords": ["thoughtbot", "general"]
     },
