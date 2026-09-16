@@ -1,8 +1,7 @@
 # general
 
-Catch-all plugin for thoughtbot skills that don't need a domain-specific
-plugin. Skills that are scoped to something general, and not to a particular
-domain like Rails or React development, live here.
+General thoughtbot design, development, and consulting skills. Skills that are scoped to
+something general, and not to a particular domain like Rails or React development, live here.
 
 ## Installation
 
