@@ -15,5 +15,7 @@ Add the marketplace and install the plugin in Claude Code:
 ## Skills
 
 - [**generate-postman-collection**](skills/generate-postman-collection) — generates or updates a Postman API collection by analyzing a Rails application's routes, controllers, and test specs. Migrated from [generate-postman-collection](https://github.com/thoughtbot/generate-postman-collection).
+- [**rails-patterns**](skills/rails-patterns) — follow Rails best practices from thoughtbot's guides. Migrated from [thoughtbot-dev](https://github.com/thoughtbot/thoughtbot-dev).
+- [**testing-patterns**](skills/testing-patterns) — write well-structured tests in a Rails app. Migrated from [thoughtbot-dev](https://github.com/thoughtbot/thoughtbot-dev).
 
 See the repository's [CONTRIBUTING.md](../../CONTRIBUTING.md) for how to add a new skill.
