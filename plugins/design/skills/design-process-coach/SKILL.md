@@ -1,9 +1,9 @@
 ---
-name: design-consultant-feedback
-description: Evaluate meeting notes, project updates, or sprint recaps against designer consulting best practices. Use this skill whenever the user pastes meeting notes, sprint notes, standup summaries, or project updates — OR when they ask for a project check-in, self-assessment, or reflection without any notes to share. Triggers on phrases like "are we doing this right?", "what are we missing?", "how's the team doing on process?", "evaluate this sprint", "how am I doing on this project?", "let's do a check-in", or "I want to reflect on how the project is going". In note-analysis mode, extracts and evaluates practices from the content. In guided reflection mode, asks a structured set of questions one at a time and synthesizes a full evaluation at the end. Both modes use the same framework and output format.
+name: design-process-coach
+description: Evaluate meeting notes, project updates, or sprint recaps against designer best practices. Use this skill whenever the user pastes meeting notes, sprint notes, standup summaries, or project updates — OR when they ask for a project check-in, self-assessment, or reflection without any notes to share. Triggers on phrases like "are we doing this right?", "what are we missing?", "how's the team doing on process?", "evaluate this sprint", "how am I doing on this project?", "let's do a check-in", or "I want to reflect on how the project is going". In note-analysis mode, extracts and evaluates practices from the content. In guided reflection mode, asks a structured set of questions one at a time and synthesizes a full evaluation at the end. Both modes use the same framework and output format.
 ---
 
-# Design Consultant Feedback
+# Design Process Coach
 
 Evaluate project notes against designer best practices. Identify the current project phase, score adherence to key practices, and surface specific gaps or risks.
 
@@ -148,7 +148,7 @@ Risk signals:
 - No forward-looking artifacts or roadmap
 - No documentation plan
 - Abrupt handoff with no transition
-- Team not equipped to continue without the consultant
+- Team not equipped to continue without the designer
 
 ---
 

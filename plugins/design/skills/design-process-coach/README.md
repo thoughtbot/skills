@@ -2,7 +2,7 @@
 
 <br>
 
-# Design Consultant Feedback
+# Design Process Coach
 
 There's no shortage of agent skills for development and design output, but what about _how_ you approach your project? How you work with a team and how you deliver value. This skill is **your coach for the soft skills of shipping great design work**.
 
