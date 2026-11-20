@@ -1,4 +1,4 @@
-<img width="3000" height="1326" alt="LLM Skill: Design Process Coach - Your coach for the soft skills of delivering great design work. Based on principals used by designers at thoughtbot." src="https://github.com/user-attachments/assets/bd0225cb-a3f0-4e14-939d-95706d64dceb" />
+<img width="3000" height="1326" alt="LLM Skill: Design Process Coach - Your coach for the soft skills of delivering great design work. Based on principles used by designers at thoughtbot." src="https://github.com/user-attachments/assets/bd0225cb-a3f0-4e14-939d-95706d64dceb" />
 
 <br>
 
@@ -12,7 +12,7 @@ It's grounded in the [thoughtbot Playbook](https://thoughtbot.com/playbook), [bl
 
 | Who is this for? | What does it do? |
 |--- | --- |
-| Any designer working with a team to ship a product or feature. The skill is modeled around the four phases of a typical MVP project from design sprint to launch but can be used for any type of&nbsp;project. | The skill will review the process you and your team have followed, identify any gaps or risks, and help you develop the soft skills that are critical to delivering excellent design work and successful&nbsp;products. |
+| Any designer working with a team to ship a product or feature — in-house, agency, or freelance. The skill is modeled around the four phases of a typical project from kickoff to launch, adapts its advice to your working context, and can be used for any type of&nbsp;project. | The skill will review the process you and your team have followed, identify any gaps or risks, and help you develop the soft skills that are critical to delivering excellent design work and successful&nbsp;products. |
 
 <br>
 
@@ -40,13 +40,16 @@ Then the skill will prompt you with a set of questions to learn more about your 
 
 ## What it evaluates
 
-The skill evaluates how well you and the team are following a set of global principals along with other principals and practices that are specific to the four general phases of a project (sprint, week 1, active sprint cadence, wrap up/ship)
+The skill evaluates how well you and the team are following a set of global principles, along with practices specific to the four general phases of a project (discovery & kickoff, just after kickoff, active build cadence, launch & wrap up) and to your working context (in-house, or agency/consultancy/freelance).
 
 **Global principles**
 - Find and communicate your niche on the team
 - Be a good partner to dev and PM
 - Be the voice of the user
-- Solve a problem the client didn't know they had
+- Improve the system, not just the feature
+- Build trust through judgment, not just execution
+- Engage broadly, not through one point of contact
+- Tie work to business outcomes
 - Practice continuous validation and derisking
 - Think about your value: clarity, risk reduction, future vision, product intuition
 - Move fluidly between discovery and delivery
