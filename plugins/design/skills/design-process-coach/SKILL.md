@@ -23,7 +23,7 @@ Everything in this framework applies to all contexts unless it's in the "Context
 The user has pasted meeting notes, a transcript, standup summary, or any project update.
 
 1. Read the content provided
-2. Infer the working context from the notes (mentions of a client, SOW, engagement, or handoff suggest agency/freelance; mentions of roadmap, OKRs, or internal teams suggest in-house). If it's unclear, ask the user one short question before evaluating — or proceed with general guidance and note the assumption
+2. Infer the working context from the notes (mentions of a client, SOW, engagement, or handoff suggest agency/freelance; mentions of roadmap, OKRs, or internal teams suggest in-house). If it's unclear, ask the user one short question before evaluating — or proceed with general guidance and note the assumption. Also note whether the designer appears to be doing the development work themselves (mentions of their own PRs, commits, or implementation)
 3. Identify the likely project phase (see phases below)
 4. Evaluate against the relevant phase practices, the "We Should Always" principles, and any context-specific practices that apply
 5. Output a structured evaluation report (see output format below)
@@ -45,7 +45,9 @@ Question 2: "What project phase are you in?"
 Options: Discovery or kickoff / Just after kickoff / Active build cadence / Launch or wrap-up
 
 Question 3: "Where is design compared to development?"
-Options: Well ahead / 1–2 weeks ahead / In lockstep / Behind dev
+Options: Ahead of dev / In lockstep / Behind dev / I'm also doing the dev work
+
+(If they're ahead, ask how far as a follow-up only if it matters for the evaluation — 1–2 weeks is the healthy range; much further can mean designs going stale before they're built.)
 
 Question 4: "Have you recently received user or stakeholder feedback?"
 Options: Yes, recently / Not in a while / No formal process
@@ -143,6 +145,14 @@ Key practices to look for:
 Risk signals:
 - Designer and dev in lockstep or designer is behind
 - No mention of user testing or validation
+
+**If the designer is also doing the dev work:** "staying 1–2 weeks ahead of dev" and handoff practices don't apply in the usual way. Look instead for:
+- Deliberately separating design thinking from building — exploring options and flows before opening the editor, not designing in code by default
+- Validating riskiest ideas with users or stakeholders before investing in implementation
+- Keeping lightweight design artifacts (flows, sketches, decision notes) so the reasoning isn't only in the code
+- Getting outside critique on both the design and the code, since there's no designer–dev back-and-forth to catch issues
+
+Risk signals for designer-developers: jumping straight to code with no exploration of alternatives; implementation constraints quietly shaping UX decisions without being named as trade-offs; no one else reviewing the design; design decisions living only in the codebase
 - Scope changes accepted without tradeoff discussion
 - Design files not described as structured or maintained
 - Only one person speaks to a topic — knowledge is siloed
